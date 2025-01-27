@@ -10,4 +10,5 @@ Basierend auf Sen's Kompilierer (https://github.com/senwawa/aviutl-italian-patch
 **Danksagungen:**
 
 Senwawa: Grundbau des Kompilierers
+
 Sykhro: Englisches Sprachenpaket für AviUtl
