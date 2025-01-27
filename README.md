@@ -1,6 +1,7 @@
 # German AviUtil übersetzt von TheAspiHD/Aspi-Chan
 
 Basierend auf dem Englischen Sprachenpacket von Sykhro!
+Bitte bedenken das alle versionen vor 1.6 nicht veröffentlicht wurden!
 
 **Nutzung des Kompiliererers:**
 
